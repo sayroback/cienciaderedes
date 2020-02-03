@@ -1,0 +1,16 @@
+Source,Target,Type,Id,Label,timeset,Weight
+Beto,Alicia,Undirected,1,,,1
+Alicia,Carlos,Undirected,2,,,1
+David,Alicia,Undirected,3,,,1
+Carmen,Alicia,Undirected,4,,,1
+Monica,Alicia,Undirected,5,,,1
+Jorge,Beto,Undirected,6,,,1
+Enrique,Jorge,Undirected,7,,,1
+Rosa,Enrique,Undirected,8,,,1
+Jorge,Rosa,Undirected,9,,,1
+Irene,Enrique,Undirected,10,,,1
+Jorge,Irene,Undirected,11,,,1
+Rosa,Irene,Undirected,12,,,1
+Monica,Carmen,Undirected,13,,,1
+Carlos,David,Undirected,14,,,1
+Monica,Carlos,Undirected,15,,,1

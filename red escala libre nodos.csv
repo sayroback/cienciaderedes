@@ -1,0 +1,11 @@
+Id,Label,timeset,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,degree,weighted degree
+Alicia,Alicia,,4,0.5,0.680556,9,3,3
+Carlos,Carlos,,4,0.4,0.555556,5,2,2
+Beto,Beto,,5,0.352941,0.463889,0,1,1
+Jorge,Jorge,,3,0.545455,0.638889,9,2,2
+Enrique,Enrique,,2,0.666667,0.75,0,1,1
+Rosa,Rosa,,5,0.352941,0.463889,0,1,1
+Irene,Irene,,1,1,1,1,2,2
+Carmen,Carmen,,5,0.3,0.413889,0,1,1
+David,David,,2,0.666667,0.75,0,1,1
+Monica,Monica,,3,0.5,0.611111,8,2,2
